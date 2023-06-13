@@ -1,0 +1,8 @@
+title: OLM v1 Docs Prototype
+description: A test site for a new docs experience for the Operator Framework
+theme: just-the-docs
+
+url: https://michaelryanpeter.github.io/opframe-docs-test
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
